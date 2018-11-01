@@ -15,6 +15,7 @@ namespace Perimeter
             // calculate perimeter
             double perimeter = CalculatePerimeter(height, width);
             // print out perimeter
+            Console.WriteLine("The perimeter is: ");
             Console.WriteLine(perimeter);
             Console.ReadLine();
         }
