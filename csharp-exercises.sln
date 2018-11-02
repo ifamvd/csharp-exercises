@@ -16,7 +16,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradebookDict", "GradebookD
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradebookArray", "GradebookArray\GradebookArray.csproj", "{89051A0E-8D18-48C3-B4E6-D05F62D252CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perimeter", "Perimeter\Perimeter.csproj", "{F2A0812F-5ADD-426D-80FD-CBE01DE0EF04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Perimeter", "Perimeter\Perimeter.csproj", "{F2A0812F-5ADD-426D-80FD-CBE01DE0EF04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area", "Area\Area.csproj", "{A45B4641-45EE-43DD-8965-14309BB070FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -56,6 +58,10 @@ Global
 		{F2A0812F-5ADD-426D-80FD-CBE01DE0EF04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2A0812F-5ADD-426D-80FD-CBE01DE0EF04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2A0812F-5ADD-426D-80FD-CBE01DE0EF04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A45B4641-45EE-43DD-8965-14309BB070FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A45B4641-45EE-43DD-8965-14309BB070FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A45B4641-45EE-43DD-8965-14309BB070FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A45B4641-45EE-43DD-8965-14309BB070FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
